@@ -1,0 +1,16 @@
+{
+  "name": "swapi-js",
+  "version": "0.0.1",
+  "authors": [
+    "Lucas Holmquist <lucas.holmquist@gmail.com>"
+  ],
+  "main": "swapi.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
